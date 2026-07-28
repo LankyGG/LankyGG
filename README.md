@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LankyGG/LankyGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>lanky@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><code>lanky@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top">
+      <!-- On ajoutera le portrait ASCII ici plus tard -->
+    </td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
