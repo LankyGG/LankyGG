@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td valign="top">
-      <!-- On ajoutera le portrait ASCII ici plus tard -->
+      <!-- ASCII portrait goes here later -->
     </td>
     <td valign="top"><img src="./info-card.svg" width="490" /></td>
   </tr>

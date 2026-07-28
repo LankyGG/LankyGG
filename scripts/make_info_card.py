@@ -1,22 +1,90 @@
-svg_template = """<svg xmlns="http://www.w3.org/2000/svg" width="490" height="300" style="background-color:#0d1117; font-family:monospace; color:#c9d1d9; border-radius:10px;">
-  <style>
-    text { fill: #c9d1d9; font-size: 14px; opacity: 0; animation: fadeIn 0.5s forwards; }
-    .key { fill: #58a6ff; font-weight: bold; }
-    @keyframes fadeIn { to { opacity: 1; } }
-  </style>
-  <g transform="translate(30, 40)">
-    <text y="0" style="font-size: 18px; fill:#39d353; font-weight:bold; animation-delay: 0.1s">lanky@github</text>
-    <text y="20" style="animation-delay: 0.2s">-------------------</text>
-    <text y="50" style="animation-delay: 0.3s"><tspan class="key">Role</tspan>       Junior AppSec Engineer @ Capgemini</text>
-    <text y="80" style="animation-delay: 0.4s"><tspan class="key">School</tspan>     Bachelor @ Guardia (Master en Septembre)</text>
-    <text y="110" style="animation-delay: 0.5s"><tspan class="key">Stack</tspan>      Python, PowerShell, Bash, Git</text>
-    <text y="140" style="animation-delay: 0.6s"><tspan class="key">Hardware</tspan>   PNY RTX 5060 Ti, Aorus X870E, LG UltraGear 240Hz</text>
-    <text y="170" style="animation-delay: 0.7s"><tspan class="key">Hobbies</tspan>    Ski Freestyle, FPV Drones, Impression 3D, Basket</text>
-    <text y="200" style="animation-delay: 0.8s"><tspan class="key">Gaming</tspan>     CS2, Rocket League, Rainbow Six Siege</text>
-  </g>
-</svg>"""
+"""Generates info-card.svg: an anonymous, minimalist, centered profile card."""
 
-with open('info-card.svg', 'w') as f:
+svg_template = """<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220">
+  <style>
+    text { font-family: 'Consolas', 'SFMono-Regular', monospace; }
+
+    .tick, .name, .subtitle, .divider, .meta, .dot {
+      opacity: 0;
+    }
+
+    .tick {
+      transform-box: fill-box;
+      transform-origin: center;
+      transform: scaleX(0);
+      animation: growX 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      animation-delay: 0.1s;
+    }
+    @keyframes growX { to { transform: scaleX(1); opacity: 1; } }
+
+    .name {
+      font-size: 23px;
+      font-weight: 700;
+      letter-spacing: 5px;
+      fill: #f0f6fc;
+      text-anchor: middle;
+      animation: fadeUp 0.5s ease-out forwards;
+      animation-delay: 0.3s;
+    }
+    .subtitle {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 3px;
+      fill: #6e7681;
+      text-anchor: middle;
+      animation: fadeUp 0.5s ease-out forwards;
+      animation-delay: 0.42s;
+    }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .divider {
+      transform-box: fill-box;
+      transform-origin: center;
+      transform: scaleX(0);
+      animation: growX 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      animation-delay: 0.58s;
+    }
+
+    .meta {
+      font-size: 11.5px;
+      fill: #8b949e;
+      text-anchor: middle;
+      animation: fadeUp 0.5s ease-out forwards;
+      animation-delay: 0.72s;
+    }
+
+    .dot {
+      fill: #ff453a;
+      animation: dotIn 0.4s ease-out forwards, pulse 2.6s ease-in-out infinite;
+      animation-delay: 0.9s, 1.3s;
+    }
+    @keyframes dotIn { to { opacity: 0.85; } }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.5; transform-box: fill-box; transform-origin: center; }
+      50%      { transform: scale(1.8); opacity: 1; transform-box: fill-box; transform-origin: center; }
+    }
+  </style>
+
+  <rect x="0" y="0" width="420" height="220" rx="16" fill="#0d1117" />
+  <rect x="0.75" y="0.75" width="418.5" height="218.5" rx="15.5" fill="none" stroke="#21262d" stroke-width="1.25" />
+
+  <rect class="tick" x="200" y="60" width="20" height="2" rx="1" fill="#ff453a" />
+
+  <text class="name" x="210" y="98">LANKY</text>
+  <text class="subtitle" x="210" y="116">SECURITY ENGINEER</text>
+
+  <rect class="divider" x="155" y="140" width="110" height="1" fill="#21262d" />
+
+  <text class="meta" x="210" y="164">AppSec &#183; Python &#183; Bash &#183; Git</text>
+
+  <circle class="dot" cx="210" cy="188" r="2.5" />
+</svg>
+"""
+
+with open("info-card.svg", "w") as f:
     f.write(svg_template)
-    
-print("Succès : Carte info-card.svg générée à la racine.")
+
+print("Success: info-card.svg generated at project root.")
