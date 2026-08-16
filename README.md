@@ -165,28 +165,8 @@ A Markdown-based "second brain" combining an Obsidian vault with custom Claude C
 | **Performance** | N/A — a retrieval/knowledge system, not throughput-bound |
 | **Security** | `raw/` sources are treated as immutable evidence; a contradiction-detection workflow flags conflicting facts across ingested documents instead of silently overwriting them |
 | **Impact** | Single source of truth for career history, certifications, and project details — the actual dataset used to personalize this README |
-| **Repository** | [github.com/LankyGG/obsidian-vault](https://github.com/LankyGG/obsidian-vault) |
 
 **Overview:** Source documents (PDFs, transcripts, certificates) are ingested once into `raw/`, then distilled into cross-linked `wiki/` entity pages. Each ingest explicitly reconciles new claims against what's already on file, so the vault accumulates a self-correcting, provenance-tracked knowledge graph rather than a pile of disconnected notes.
-
-</details>
-
-<details>
-<summary><b>🇮🇹 courses-italie — Italian Language Study Notes</b></summary>
-<br/>
-
-A personal repository of study notes supporting ongoing Italian language learning.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Markdown notes |
-| **Scale** | Personal use |
-| **Performance** | N/A |
-| **Security** | N/A |
-| **Impact** | Supports progression toward B1–B2 Italian proficiency |
-| **Repository** | [github.com/LankyGG/courses-italie](https://github.com/LankyGG/courses-italie) |
-
-**Overview:** Study materials kept alongside the rest of the language-learning workflow — a small but active habit-tracking repo rather than a production system.
 
 </details>
 
