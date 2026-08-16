@@ -322,10 +322,7 @@ DSI internship in a regulated banking environment.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LankyGG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=0EA5E9&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LankyGG&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LankyGG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LankyGG&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="60%" />
 
 </div>
 
