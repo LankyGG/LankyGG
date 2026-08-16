@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lancelot%20Francony&fontSize=48&fontColor=C9B8FF&animation=fadeIn&fontAlignY=38&desc=AppSec%20%2F%20DevSecOps%20%7C%20Cloud%20%26%20AI%20Security%20%7C%20Cybersecurity%20Engineer&descAlignY=55&descSize=17" width="100%"/>
+# Lancelot Francony
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Apprenti+Ing%C3%A9nieur+Cybers%C3%A9curit%C3%A9+%E2%80%94+Cloud+%26+IA;AppSec+%2F+DevSecOps+%40+Capgemini;SAST+%C2%B7+SCA+%C2%B7+Cloud+Security+%C2%B7+LLM+Integration;Root-Me+CTF+%7C+Forensics+%7C+Homelab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Apprenti+Ing%C3%A9nieur+Cybers%C3%A9curit%C3%A9+%E2%80%94+Cloud+%26+IA;AppSec+%2F+DevSecOps+%40+Capgemini;SAST+%C2%B7+SCA+%C2%B7+Cloud+Security+%C2%B7+LLM+Integration;Root-Me+CTF+%7C+Forensics+%7C+Homelab" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Guardia%20Cybersecurity%20School-Mast%C3%A8re%20Expert%20S%C3%A9curit%C3%A9%20des%20Infrastructures%20%26%20Cloud%20(RNCP%207)-6D28D9?style=flat-square&labelColor=1a1625" alt="education"/>
-<img src="https://img.shields.io/badge/Location-Auvergne--Rh%C3%B4ne--Alpes%2C%20France-4C1D95?style=flat-square&labelColor=1a1625&logo=googlemaps&logoColor=white" alt="location"/>
+<img src="https://img.shields.io/badge/Guardia%20Cybersecurity%20School-Mast%C3%A8re%20Expert%20S%C3%A9curit%C3%A9%20des%20Infrastructures%20%26%20Cloud%20(RNCP%207)-0369A1?style=flat-square&labelColor=1e293b" alt="education"/>
+<img src="https://img.shields.io/badge/Location-Auvergne--Rh%C3%B4ne--Alpes%2C%20France-0C4A6E?style=flat-square&labelColor=1e293b&logo=googlemaps&logoColor=white" alt="location"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/lancelot-francony/">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:lfranconypro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-075985?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/LankyGG">
-  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0C4A6E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=LankyGG&label=Profile%20Views&color=6d28d9&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/LankyGG?label=Followers&style=flat-square&color=5b21b6&labelColor=1a1625" alt="followers"/>
-<img src="https://img.shields.io/github/stars/LankyGG?label=Stars&style=flat-square&color=4c1d95&labelColor=1a1625" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=LankyGG&label=Profile%20Views&color=0369a1&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/LankyGG?label=Followers&style=flat-square&color=075985&labelColor=1e293b" alt="followers"/>
+<img src="https://img.shields.io/github/stars/LankyGG?label=Stars&style=flat-square&color=0c4a6e&labelColor=1e293b" alt="stars"/>
 
 </div>
 
@@ -58,10 +58,10 @@ Alongside my apprenticeship, I'm completing a **Mastère Expert Sécurité des I
 
 ### Open To
 
-<img src="https://img.shields.io/badge/AppSec%20%2F%20Cloud%20Security%20Roles-6D28D9?style=flat-square&labelColor=1a1625" alt="appsec"/>
-<img src="https://img.shields.io/badge/AI%20Security%20%2F%20LLMOps-5B21B6?style=flat-square&labelColor=1a1625" alt="ai-security"/>
-<img src="https://img.shields.io/badge/CTF%20%26%20Security%20Collaboration-4C1D95?style=flat-square&labelColor=1a1625" alt="ctf"/>
-<img src="https://img.shields.io/badge/Open%20Source%20DevSecOps%20Tooling-8B5CF6?style=flat-square&labelColor=1a1625" alt="opensource"/>
+<img src="https://img.shields.io/badge/AppSec%20%2F%20Cloud%20Security%20Roles-0369A1?style=flat-square&labelColor=1e293b" alt="appsec"/>
+<img src="https://img.shields.io/badge/AI%20Security%20%2F%20LLMOps-075985?style=flat-square&labelColor=1e293b" alt="ai-security"/>
+<img src="https://img.shields.io/badge/CTF%20%26%20Security%20Collaboration-0C4A6E?style=flat-square&labelColor=1e293b" alt="ctf"/>
+<img src="https://img.shields.io/badge/Open%20Source%20DevSecOps%20Tooling-0EA5E9?style=flat-square&labelColor=1e293b" alt="opensource"/>
 
 </div>
 
@@ -75,7 +75,7 @@ Alongside my apprenticeship, I'm completing a **Mastère Expert Sécurité des I
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bash,powershell&theme=dark" />
 
 <br/><br/>
 
@@ -87,13 +87,13 @@ Alongside my apprenticeship, I'm completing a **Mastère Expert Sécurité des I
 
 **AppSec & Security Tooling**
 
-<img src="https://img.shields.io/badge/Checkmarx-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/Fortify%20SSC-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/Sonatype%20Nexus%20IQ-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/Wazuh-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/Crowdsec-1a1625?style=flat-square" />
+<img src="https://img.shields.io/badge/Checkmarx-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/Fortify%20SSC-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/Sonatype%20Nexus%20IQ-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/Wazuh-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/Crowdsec-1e293b?style=flat-square" />
 
 <br/><br/>
 
 **Data & Monitoring**
 
-<img src="https://skillicons.dev/icons?i=postgres,grafana,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,grafana,git,linux&theme=dark" />
 
 </div>
 
@@ -194,7 +194,7 @@ Cloud Infrastructure Services track, working within Capgemini's AppSec team.
 - Design and develop secure APIs for generative-AI/LLM integrations
 - Built an internal DevSecOps metrics platform consolidating scanner output into a unified Grafana view
 
-<img src="https://img.shields.io/badge/-AppSec-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-Fortify-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-Sonatype-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-Cloud%20Security-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-AI%20Security-1a1625?style=flat-square" />
+<img src="https://img.shields.io/badge/-AppSec-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-Fortify-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-Sonatype-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-Cloud%20Security-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-AI%20Security-1e293b?style=flat-square" />
 
 <br/>
 
@@ -207,7 +207,7 @@ Deployed on a client engagement in an operational technology (OT) environment.
 - Worked on critical-network isolation and industrial protocol security
 - Applied ISA/IEC 62443 practices in a SCADA/OT context
 
-<img src="https://img.shields.io/badge/-OT%20Security-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-SCADA%2FPLC-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-ISA%2FIEC%2062443-1a1625?style=flat-square" />
+<img src="https://img.shields.io/badge/-OT%20Security-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-SCADA%2FPLC-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-ISA%2FIEC%2062443-1e293b?style=flat-square" />
 
 <br/>
 
@@ -220,7 +220,7 @@ DSI internship in a regulated banking environment.
 - Mobile device fleet management (MDM) and pre-deployment testing for new hardware
 - Applied group security policy (PSSI) and GDPR/DSP2 awareness
 
-<img src="https://img.shields.io/badge/-IT%20Support-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-Networking-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-MDM-1a1625?style=flat-square" /> <img src="https://img.shields.io/badge/-GDPR-1a1625?style=flat-square" />
+<img src="https://img.shields.io/badge/-IT%20Support-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-Networking-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-MDM-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/-GDPR-1e293b?style=flat-square" />
 
 <br/>
 
@@ -259,17 +259,17 @@ DSI internship in a regulated banking environment.
 
 **Checkmarx × Codebashing**
 
-<img src="https://img.shields.io/badge/HTTP%20%26%20iaC%20Security-6D28D9?style=for-the-badge&labelColor=1a1625" />
-<img src="https://img.shields.io/badge/Backend-5B21B6?style=for-the-badge&labelColor=1a1625" />
-<img src="https://img.shields.io/badge/Frontend-4C1D95?style=for-the-badge&labelColor=1a1625" />
-<img src="https://img.shields.io/badge/Hacking%20Headlines-8B5CF6?style=for-the-badge&labelColor=1a1625" />
+<img src="https://img.shields.io/badge/HTTP%20%26%20iaC%20Security-0369A1?style=for-the-badge&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/Backend-075985?style=for-the-badge&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/Frontend-0C4A6E?style=for-the-badge&labelColor=1e293b" />
+<img src="https://img.shields.io/badge/Hacking%20Headlines-0EA5E9?style=for-the-badge&labelColor=1e293b" />
 
 <br/><br/>
 
 **Capgemini University**
 
-<img src="https://img.shields.io/badge/Cybersecurity%20for%20Aerospace%20%26%20Defense-1a1625?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cybersecurity%20for%20Engagement%20Managers-1a1625?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cybersecurity%20for%20Aerospace%20%26%20Defense-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cybersecurity%20for%20Engagement%20Managers-1e293b?style=for-the-badge" />
 
 <br/><br/>
 
@@ -287,10 +287,10 @@ DSI internship in a regulated banking environment.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LankyGG&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LankyGG&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LankyGG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=0EA5E9&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LankyGG&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LankyGG&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LankyGG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" width="49%" />
 
 </div>
 
@@ -302,7 +302,7 @@ DSI internship in a regulated banking environment.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LankyGG&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=LankyGG&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -314,7 +314,7 @@ DSI internship in a regulated banking environment.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LankyGG&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C9B8FF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LankyGG&theme=github-compact&bg_color=0d1117&color=38BDF8&line=0EA5E9&point=7DD3FC&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -366,13 +366,13 @@ current_focus:
 <div align="center">
 
 <a href="mailto:lfranconypro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0369A1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/lancelot-francony/">
-  <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/LankyGG">
-  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0C4A6E?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -382,7 +382,5 @@ current_focus:
 <div align="center">
 
 *"Secure the pipeline, not just the endpoint."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
 </div>
