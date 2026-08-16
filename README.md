@@ -34,7 +34,7 @@
 
 <br/>
 
-## About Me
+## 👤 About Me
 
 ```
 > const engineer = {
@@ -57,7 +57,7 @@ Alongside my apprenticeship at **Capgemini**, I'm completing a **Master's Degree
 
 <div align="center">
 
-### Open To
+### 🌐 Open To
 
 <img src="https://img.shields.io/badge/AppSec%20%2F%20Cloud%20Security%20Roles-0369A1?style=flat-square&labelColor=1e293b" alt="appsec"/>
 <img src="https://img.shields.io/badge/AI%20Security%20%2F%20LLMOps-075985?style=flat-square&labelColor=1e293b" alt="ai-security"/>
@@ -68,9 +68,13 @@ Alongside my apprenticeship at **Capgemini**, I'm completing a **Master's Degree
 
 <br/>
 
----
+<div align="center">
 
-## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -82,27 +86,38 @@ Alongside my apprenticeship at **Capgemini**, I'm completing a **Master's Degree
 
 **Cloud & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,ansible,terraform&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,ansible,terraform,linux&theme=dark" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 
 <br/><br/>
 
-**AppSec & Security Tooling**
+**🛡️ Blue Team — AppSec & Defensive Tooling**
 
-<img src="https://img.shields.io/badge/Checkmarx-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/Fortify%20SSC-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/Sonatype%20Nexus%20IQ-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/Wazuh-1e293b?style=flat-square" /> <img src="https://img.shields.io/badge/Crowdsec-1e293b?style=flat-square" />
+<img src="https://img.shields.io/badge/Checkmarx-0369A1?style=for-the-badge&labelColor=1e293b" /> <img src="https://img.shields.io/badge/Fortify%20SSC-075985?style=for-the-badge&labelColor=1e293b" /> <img src="https://img.shields.io/badge/Sonatype%20Nexus%20IQ-0C4A6E?style=for-the-badge&labelColor=1e293b" /> <img src="https://img.shields.io/badge/Wazuh-0EA5E9?style=for-the-badge&labelColor=1e293b" /> <img src="https://img.shields.io/badge/Crowdsec-38BDF8?style=for-the-badge&labelColor=1e293b" />
+
+<br/><br/>
+
+**⚔️ Red Team — Offensive Security**
+
+<img src="https://img.shields.io/badge/Burp%20Suite%20(PortSwigger)-D97706?style=for-the-badge&labelColor=1e293b" /> <img src="https://img.shields.io/badge/Hydra-B45309?style=for-the-badge&labelColor=1e293b" /> <img src="https://img.shields.io/badge/Root--Me%20CTF-92400E?style=for-the-badge&labelColor=1e293b" />
 
 <br/><br/>
 
 **Data & Monitoring**
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,grafana,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,grafana,git&theme=dark" />
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-## Security & Cloud Expertise
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 🧭 Security & Cloud Expertise
 
 <div align="center">
 
@@ -119,9 +134,13 @@ Alongside my apprenticeship at **Capgemini**, I'm completing a **Master's Degree
 
 <br/>
 
----
+<div align="center">
 
-## Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🧩 all-in-one-claude-code — Portable Claude Code Framework</b></summary>
@@ -182,9 +201,13 @@ A personal repository of study notes supporting ongoing Italian language learnin
 
 <br/>
 
----
+<div align="center">
 
-## Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 💼 Experience
 
 ### AppSec / DevSecOps & Cloud Security Apprentice — Capgemini
 `September 2025 — Present · Grenoble area, France`
@@ -225,9 +248,13 @@ DSI internship in a regulated banking environment.
 
 <br/>
 
----
+<div align="center">
 
-## Achievements
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 🏆 Achievements
 
 <div align="center">
 
@@ -242,9 +269,13 @@ DSI internship in a regulated banking environment.
 
 <br/>
 
----
+<div align="center">
 
-## Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 📜 Certifications
 
 <div align="center">
 
@@ -282,9 +313,13 @@ DSI internship in a regulated banking environment.
 
 <br/>
 
----
+<div align="center">
 
-## GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -297,9 +332,13 @@ DSI internship in a regulated banking environment.
 
 <br/>
 
----
+<div align="center">
 
-## GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -309,9 +348,13 @@ DSI internship in a regulated banking environment.
 
 <br/>
 
----
+<div align="center">
 
-## Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 🔥 Contribution Activity
 
 <div align="center">
 
@@ -321,9 +364,13 @@ DSI internship in a regulated banking environment.
 
 <br/>
 
----
+<div align="center">
 
-## Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -333,9 +380,13 @@ DSI internship in a regulated banking environment.
 
 <br/>
 
----
+<div align="center">
 
-## Current Focus
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 🎯 Current Focus
 
 ```yaml
 current_focus:
@@ -360,9 +411,13 @@ current_focus:
 
 <br/>
 
----
+<div align="center">
 
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
+
+</div>
+
+## 📬 Connect
 
 <div align="center">
 
