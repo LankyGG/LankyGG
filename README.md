@@ -86,8 +86,7 @@ Alongside my apprenticeship at **Capgemini**, I'm completing a **Master's Degree
 
 **Cloud & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,ansible,terraform,linux&theme=dark" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,ansible,terraform,linux&theme=dark" /><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSIjMEYxNjg5IiByeD0iNjAiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0NCw0NCkgc2NhbGUoNykiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMi4zMzcgMGMtLjQ3NSAwLS44NjEgMS4wMTYtLjg2MSAyLjI2OSAwIC41MjcuMDY5IDEuMDExLjE4MyAxLjM5NmE4LjUxNCA4LjUxNCAwIDAgMC0zLjk2MSAxLjIyIDUuMjI5IDUuMjI5IDAgMCAwLS41OTUtMS4wOTNjLS42MDYtLjg2Ni0xLjM0LTEuNDM2LTEuNzktMS40M2EuMzgxLjM4MSAwIDAgMC0uMjE3LjA2NmMtLjM5LjI3My0uMTIzIDEuMzI2LjU5NiAyLjM1My4yNjcuMzgxLjU1OS43MDUuODQuOTQ4YTguNjgzIDguNjgzIDAgMCAwLTEuNTI4IDEuNzE2aDEuNzM0YTcuMTc5IDcuMTc5IDAgMCAxIDUuMzgxLTIuNDIxIDcuMTggNy4xOCAwIDAgMSA1LjM4MiAyLjQyaDEuNzMzYTguNjg3IDguNjg3IDAgMCAwLTEuMzItMS41M2MuMzUtLjI0OS43MzUtLjY0MyAxLjA3OC0xLjEzMy43MTktMS4wMjcuOTg2LTIuMDguNTk2LTIuMzUzYS4zODIuMzgyIDAgMCAwLS4yMTctLjA2NWMtLjQ1LS4wMDctMS4xODQuNTYzLTEuNzkgMS40M2E0Ljg5NyA0Ljg5NyAwIDAgMC0uNjc2IDEuMzI1IDguNTIgOC41MiAwIDAgMC0zLjg5OS0xLjQyYy4xMi0uMzkuMTkzLS44ODcuMTkzLTEuNDI5IDAtMS4yNTMtLjM4Ni0yLjI2OS0uODYyLTIuMjY5ek0xLjYyNCA5LjQ0M3Y1LjE2MmgxLjM1OHYtMS45NjhoMS42NHYxLjk2OGgxLjM1N1Y5LjQ0M0g0LjYydjEuODM4SDIuOThWOS40NDN6bTUuOTEyIDB2NS4xNjJoMy4yMXYtMS4xMDhIOC44OTN2LS45NWgxLjY0di0xLjE0MmgtMS42NHYtLjg0aDEuODUzVjkuNDQzem00LjY5OCAwdjUuMTYyaDMuMjE4di0xLjM2MmgtMS44NnYtMy44em00LjcwNiAwdjUuMTYyaDEuMzY0di0yLjY0M2wxLjM1NyAxLjIyNSAxLjM1LTEuMjMydjIuNjVoMS4zNjVWOS40NDNoLS42MTRsLTIuMSAxLjkxNC0yLjEwOS0xLjkxNHptLTExLjgyIDcuMjhhOC42ODggOC42ODggMCAwIDAgMS40MTIgMS41NDggNS4yMDYgNS4yMDYgMCAwIDAtLjg0MS45NDhjLS43MTkgMS4wMjctLjk4NSAyLjA4LS41OTYgMi4zNTMuMzkuMjczIDEuMjg5LS4zMzggMi4wMDctMS4zNjRhNS4yMyA1LjIzIDAgMCAwIC41OTUtMS4wOTIgOC41MTQgOC41MTQgMCAwIDAgMy45NjEgMS4yMTkgNS4wMSA1LjAxIDAgMCAwLS4xODMgMS4zOTZjMCAxLjI1My4zODYgMi4yNjkuODYxIDIuMjY5LjQ3NiAwIC44NjItMS4wMTYuODYyLTIuMjY5IDAtLjU0Mi0uMDcyLTEuMDQtLjE5My0xLjQzYTguNTIgOC41MiAwIDAgMCAzLjktMS40MmMuMTIxLjQuMzUyLjg2NS42NzUgMS4zMjcuNzE5IDEuMDI2IDEuNjE3IDEuNjM3IDIuMDA3IDEuMzY0LjM5LS4yNzMuMTIzLTEuMzI2LS41OTYtMi4zNTMtLjM0My0uNDktLjcyNy0uODg1LTEuMDc3LTEuMTM1YTguNjkgOC42OSAwIDAgMCAxLjIwMi0xLjM2aC0xLjc3MWE3LjE3NCA3LjE3NCAwIDAgMS01LjIyNyAyLjI1MiA3LjE3NCA3LjE3NCAwIDAgMS01LjIyNi0yLjI1MnoiLz48L2c+PC9zdmc+Cg==" width="48" height="48" alt="Helm" title="Helm" style="margin-left:6px;vertical-align:middle" />
 
 <br/><br/>
 
@@ -327,22 +326,6 @@ DSI internship in a regulated banking environment.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LankyGG&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LankyGG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" width="49%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0EA5E9,100:0f172a&height=3&section=header" width="100%"/>
-
-</div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LankyGG&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
