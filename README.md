@@ -36,14 +36,6 @@
 
 ## 👤 About Me
 
-```
-> const engineer = {
-    role: "AppSec / DevSecOps Apprentice — Cloud & AI Security",
-    focus: ["Application Security", "Cloud Security (AWS/Azure/GCP)", "AI/LLM Security", "OT/Industrial Security"],
-    philosophy: "Secure the pipeline, not just the endpoint"
-  }
-```
-
 I'm a cybersecurity engineer in training, currently an **AppSec / DevSecOps apprentice at Capgemini**, working across application security, cloud security, and the emerging discipline of AI/LLM security. My day-to-day involves running and interpreting SAST/SCA scanning (Fortify, Sonatype Nexus IQ) for the AppSec team, and designing secure APIs for generative-AI integrations.
 
 Alongside my apprenticeship at **Capgemini**, I'm completing a **Master's Degree in Cybersecurity & Cloud Infrastructure** (RNCP Level 7), and I build my own tooling to go deeper than the day job requires — from a self-hosted DevSecOps metrics platform to a homelab for testing autonomous-agent frameworks locally.
