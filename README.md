@@ -8,7 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Guardia%20Cybersecurity%20School-Mast%C3%A8re%20Expert%20S%C3%A9curit%C3%A9%20des%20Infrastructures%20%26%20Cloud%20(RNCP%207)-0369A1?style=flat-square&labelColor=1e293b" alt="education"/>
+<img src="https://img.shields.io/badge/Capgemini-AppSec%20%2F%20DevSecOps%20Apprentice-0369A1?style=flat-square&labelColor=1e293b" alt="employer"/>
+<img src="https://img.shields.io/badge/Master's%20Degree-Cybersecurity%20%26%20Cloud%20Infrastructure%20(RNCP%20Level%207)-075985?style=flat-square&labelColor=1e293b" alt="education"/>
 <img src="https://img.shields.io/badge/Location-Auvergne--Rh%C3%B4ne--Alpes%2C%20France-0C4A6E?style=flat-square&labelColor=1e293b&logo=googlemaps&logoColor=white" alt="location"/>
 
 <br/><br/>
@@ -45,7 +46,7 @@
 
 I'm a cybersecurity engineer in training, currently an **AppSec / DevSecOps apprentice at Capgemini**, working across application security, cloud security, and the emerging discipline of AI/LLM security. My day-to-day involves running and interpreting SAST/SCA scanning (Fortify, Sonatype Nexus IQ) for the AppSec team, and designing secure APIs for generative-AI integrations.
 
-Alongside my apprenticeship, I'm completing a **Mastère Expert Sécurité des Infrastructures & Cloud** (RNCP Level 7) at Guardia Cybersecurity School, and I build my own tooling to go deeper than the day job requires — from a self-hosted DevSecOps metrics platform to a homelab for testing autonomous-agent frameworks locally.
+Alongside my apprenticeship at **Capgemini**, I'm completing a **Master's Degree in Cybersecurity & Cloud Infrastructure** (RNCP Level 7), and I build my own tooling to go deeper than the day job requires — from a self-hosted DevSecOps metrics platform to a homelab for testing autonomous-agent frameworks locally.
 
 **What I bring:**
 - 🛡️ Hands-on AppSec: SAST/DAST/SCA triage, secure code review, vulnerability management at scale
